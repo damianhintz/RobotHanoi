@@ -1,0 +1,12 @@
+﻿body {
+}
+
+#cover {
+    display: block;
+    background: #fff;
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.6);
+    width: calc(92 * 0.707vh);
+    height: calc(92 * 1vh);
+    overflow: hidden;
+    position: relative;
+}
