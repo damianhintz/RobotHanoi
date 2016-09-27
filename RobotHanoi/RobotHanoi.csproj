@@ -78,7 +78,6 @@
     <Content Include="bridge.js" />
     <Content Include="bundle.js" />
     <Content Include="index.html" />
-    <Content Include="README.txt" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
